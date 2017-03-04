@@ -1,4 +1,4 @@
 default:
   comment: "This is a comment"
   comment2: "This is a comment2"
-  message: "message from yaml"
+  message: "message from YAML"
