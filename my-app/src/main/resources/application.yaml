@@ -1,9 +1,0 @@
-default:
-  comment: "This is a comment"
-  comment2: "This is a comment2"
-  message: "message from YAML"
-
-user:
-  first-name: "Gaurav"
-  lastName: "Sharma"
-  email: "gaurav.sharma@tothenew.com"
